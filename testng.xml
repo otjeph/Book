@@ -1,0 +1,8 @@
+<suite name="Book">
+    <test name="All">
+        <classes>
+            <class name="TestRunner"/>
+            <class name="Steps"/>
+        </classes>
+    </test>
+</suite>
